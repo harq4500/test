@@ -1,3 +1,5 @@
- ```git clone https://github.com/harq4500/test.git
+ ```
+ git clone https://github.com/harq4500/test.git
  npm install
- npm run dev```
+ npm run dev
+ ```
